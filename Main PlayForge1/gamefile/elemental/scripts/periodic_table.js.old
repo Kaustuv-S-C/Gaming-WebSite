@@ -1,0 +1,6 @@
+var PeriodTable = [
+    {name: "Carbon", id: "C"},
+    {name: "Helium", id: "He"},
+    {name: "Iron", id: "Fe"},
+    {name: "Fluorine", id: "F"},
+];
